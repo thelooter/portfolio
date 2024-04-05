@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Eve"
       introSubtitle = "22 y/o junior developer who enjoys coding, music and surfing"
-      introPhoto = "/picture.png"
+      introPhoto = "/picture.webp"
       pronouns = "she/they"
     [[languages.en.menu.main]]
         name = "About"
