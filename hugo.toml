@@ -2,6 +2,8 @@ metaDataFormat = "yaml"
 title = "thelooter"
 theme = "blist"
 
+enableRobotsTXT = true
+
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
