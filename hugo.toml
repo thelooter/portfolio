@@ -1,4 +1,3 @@
-baseurl = "https://blist.vercel.app"
 metaDataFormat = "yaml"
 title = "thelooter"
 theme = "blist"

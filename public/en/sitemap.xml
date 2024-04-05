@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>//localhost:1313/en/about/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/android/</loc>
+    <loc>//localhost:1313/en/tags/android/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
+    <loc>//localhost:1313/en/blog/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/d2/</loc>
+    <loc>//localhost:1313/en/tags/d2/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/d2checkpoint/</loc>
+    <loc>//localhost:1313/en/tags/d2checkpoint/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/d2checkpoint/</loc>
+    <loc>//localhost:1313/en/projects/d2checkpoint/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/dart/</loc>
+    <loc>//localhost:1313/en/tags/dart/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/destiny-2/</loc>
+    <loc>//localhost:1313/en/tags/destiny-2/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/eventchecker/</loc>
+    <loc>//localhost:1313/en/tags/eventchecker/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/eventchecker/</loc>
+    <loc>//localhost:1313/en/projects/eventchecker/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/flutter/</loc>
+    <loc>//localhost:1313/en/tags/flutter/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/git/</loc>
+    <loc>//localhost:1313/en/tags/git/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/gitlab/</loc>
+    <loc>//localhost:1313/en/tags/gitlab/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/go/</loc>
+    <loc>//localhost:1313/en/tags/go/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/gradle/</loc>
+    <loc>//localhost:1313/en/tags/gradle/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>//localhost:1313/en/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/ios/</loc>
+    <loc>//localhost:1313/en/tags/ios/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/kotlin/</loc>
+    <loc>//localhost:1313/en/tags/kotlin/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/labplus/</loc>
+    <loc>//localhost:1313/en/projects/labplus/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/mc/</loc>
+    <loc>//localhost:1313/en/tags/mc/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/minecraft/</loc>
+    <loc>//localhost:1313/en/tags/minecraft/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/mockbukkit/</loc>
+    <loc>//localhost:1313/en/tags/mockbukkit/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/mockbukkit/</loc>
+    <loc>//localhost:1313/en/projects/mockbukkit/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/oss/</loc>
+    <loc>//localhost:1313/en/tags/oss/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/paper/</loc>
+    <loc>//localhost:1313/en/tags/paper/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>//localhost:1313/en/projects/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>//localhost:1313/en/tags/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>//localhost:1313/en/categories/</loc>
   </url>
 </urlset>
