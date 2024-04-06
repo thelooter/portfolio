@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on thelooter</title>
+    <link>//localhost:1313/de/tags/</link>
+    <description>Recent content in Tags on thelooter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>//localhost:1313/de/tags/android/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D2</title>
+      <link>//localhost:1313/de/tags/d2/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/d2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D2checkpoint</title>
+      <link>//localhost:1313/de/tags/d2checkpoint/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/d2checkpoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dart</title>
+      <link>//localhost:1313/de/tags/dart/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/dart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Destiny 2</title>
+      <link>//localhost:1313/de/tags/destiny-2/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/destiny-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eventchecker</title>
+      <link>//localhost:1313/de/tags/eventchecker/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/eventchecker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>//localhost:1313/de/tags/flutter/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>//localhost:1313/de/tags/git/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gitlab</title>
+      <link>//localhost:1313/de/tags/gitlab/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>//localhost:1313/de/tags/go/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gradle</title>
+      <link>//localhost:1313/de/tags/gradle/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/gradle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ios</title>
+      <link>//localhost:1313/de/tags/ios/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kotlin</title>
+      <link>//localhost:1313/de/tags/kotlin/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mc</title>
+      <link>//localhost:1313/de/tags/mc/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/mc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minecraft</title>
+      <link>//localhost:1313/de/tags/minecraft/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/minecraft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mockbukkit</title>
+      <link>//localhost:1313/de/tags/mockbukkit/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/mockbukkit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oss</title>
+      <link>//localhost:1313/de/tags/oss/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/oss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>//localhost:1313/de/tags/paper/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/tags/paper/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
