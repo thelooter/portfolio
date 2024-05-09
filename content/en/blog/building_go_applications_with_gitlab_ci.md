@@ -111,7 +111,7 @@ The only thing we're changing is the stage of the Step.
 #### Secret Detection
 
 We don't want our precious Passwords and Token show up in Git, do we?
-Thats why we use Secret Detection to Detect them early on.
+Thats why we use Secret Detection to detect them early on.
 
 **Reuse the include statement from the previous step!**
 
