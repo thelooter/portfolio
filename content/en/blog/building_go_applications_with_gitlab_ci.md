@@ -10,7 +10,7 @@ thumbnail: https://i.ibb.co/VBkX0m0/734157-A-Golang-Gopher-working-on-a-pipeline
 
 ## Intro
 
-Recently I've started building and deplyoing Go Applications with Gitlab CI.
+Recently I've started building and deploying Go Applications with Gitlab CI.
 Today I wanna share how I build a Pipeline that aims to make your
 code more resilient and safe.
 
