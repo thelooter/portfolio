@@ -143,7 +143,7 @@ gemnasium-dependency_scanning:
 
 Same thing, only changing the stage.
 
-## Transformation
+### Transformation
 
 Now the final step, let's actually build the program
 
