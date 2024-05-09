@@ -3,12 +3,13 @@ author: Eve Kolb
 title: Building Go Applications with Gitlab CI
 date: 2024-04-21
 description: An easy to follow Guide on building Go Applications with Gitlab CI
-tags: ci", "gitlab", "go"]
+tags: ["ci", "gitlab", "go"]
 type: blog
 thumbnail: https://i.ibb.co/VBkX0m0/734157-A-Golang-Gopher-working-on-a-pipeline-xl-1024-v1-0.png
 ---
 
 ## Intro
+
 Recently I've started building and deplyoing Go Applications with Gitlab CI.
 Today I wanna share how I build a Pipeline that aims to make your
 code more resilient and safe.
@@ -134,7 +135,7 @@ This is the code:
 
 ```yaml
 include:
-    - template: Security/Dependency-Scanning.gitlab-ci.yml
+  - template: Security/Dependency-Scanning.gitlab-ci.yml
 
 gemnasium-dependency_scanning:
   stage: scan
@@ -146,10 +147,7 @@ Same thing, only changing the stage.
 
 Now the final step, let's actually build the program
 
-
-
 ```yaml
-
 variables:
   OUTPUT_NAME: __bin__/$CI_PROJECT_NAME
 

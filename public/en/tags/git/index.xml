@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Git on thelooter</title>
-    <link>//localhost:1313/en/tags/git/</link>
-    <description>Recent content in Git on thelooter</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lab&#43; for Gitlab</title>
-      <link>//localhost:1313/en/projects/labplus/</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/projects/labplus/</guid>
-      <description> NOTE&#xA;I&amp;rsquo;m not the original author of this App. I forked it when the repository seemed abandoned&#xA;Lab+ lets you see the latest happenings wherever you are, reply to issues so they can be taken care of faster, manage and organise projects with labels, browse your files, code and more!&#xA;currently thinking about rewriting it in Kotlin with Compose Multiplatform&#xA;Github: https://github.com/thelooter/labplus_for_gitlab </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on thelooter</title><link>/en/tags/git/</link><description>Recent content in Git on thelooter</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Lab+ for Gitlab</title><link>/en/projects/labplus/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>/en/projects/labplus/</guid><description> NOTE
+I&amp;rsquo;m not the original author of this App. I forked it when the repository seemed abandoned
+Lab+ lets you see the latest happenings wherever you are, reply to issues so they can be taken care of faster, manage and organise projects with labels, browse your files, code and more!
+currently thinking about rewriting it in Kotlin with Compose Multiplatform
+Github: https://github.com/thelooter/labplus_for_gitlab</description></item></channel></rss>

@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gradle on thelooter</title>
-    <link>//localhost:1313/de/tags/gradle/</link>
-    <description>Recent content in Gradle on thelooter</description>
-    <generator>Hugo</generator>
-    <language>de</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/de/tags/gradle/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EventChecker</title>
-      <link>//localhost:1313/de/projects/eventchecker/</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/projects/eventchecker/</guid>
-      <description>EventChecker ist ein Paper-Plugin, mit dem Entwickler die von ihrem Paper Server gesendeten Events überprüfen können. Es enthält auch Filterfunktionen. Geschrieben in Kotlin und gebaut mit Gradle&#xA;Github: https://github.com/thelooter/EventChecker </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gradle on thelooter</title><link>/de/tags/gradle/</link><description>Recent content in Gradle on thelooter</description><generator>Hugo</generator><language>de</language><lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/de/tags/gradle/index.xml" rel="self" type="application/rss+xml"/><item><title>EventChecker</title><link>/de/projects/eventchecker/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>/de/projects/eventchecker/</guid><description>EventChecker ist ein Paper-Plugin, mit dem Entwickler die von ihrem Paper Server gesendeten Events überprüfen können. Es enthält auch Filterfunktionen. Geschrieben in Kotlin und gebaut mit Gradle
+Github: https://github.com/thelooter/EventChecker</description></item></channel></rss>

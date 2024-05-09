@@ -5,8 +5,34 @@
     <loc>//localhost:1313/en/blog/building_go_applications_with_gitlab_ci/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/ci-gitlab-go/</loc>
+    <loc>//localhost:1313/en/tags/ci/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/gitlab/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/tags/gitlab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/gitlab/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/go/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/go/"
+                />
   </url><url>
     <loc>//localhost:1313/en/tags/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
@@ -177,32 +203,6 @@
                 href="//localhost:1313/en/tags/git/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/gitlab/</loc>
-    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/tags/gitlab/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/tags/gitlab/"
-                />
-  </url><url>
-    <loc>//localhost:1313/en/tags/go/</loc>
-    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/tags/go/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/tags/go/"
-                />
-  </url><url>
     <loc>//localhost:1313/en/tags/gradle/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -370,5 +370,7 @@
                 hreflang="en"
                 href="//localhost:1313/en/categories/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/tags/ci-gitlab-go/</loc>
   </url>
 </urlset>

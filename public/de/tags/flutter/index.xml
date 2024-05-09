@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Flutter on thelooter</title>
-    <link>//localhost:1313/de/tags/flutter/</link>
-    <description>Recent content in Flutter on thelooter</description>
-    <generator>Hugo</generator>
-    <language>de</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/de/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lab&#43; for Gitlab</title>
-      <link>//localhost:1313/de/projects/labplus/</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/projects/labplus/</guid>
-      <description> HINWEIS Ich bin nicht der ursprüngliche Autor dieser App. Ich habe sie geforkt, als das Repository aufgegeben schien&#xA;Mit Lab+ können Sie die neuesten Ereignisse sehen, wo immer Sie sind, auf Probleme antworten, damit sie schneller bearbeitet werden können, Projekte mit Labels verwalten und organisieren, Ihre Dateien und Ihren Code durchsuchen und vieles mehr!&#xA;Ich überlege aktuell, die App mit Compose Multiplatform in Kotlin umzuschreiben.&#xA;Github: https://github.com/thelooter/labplus_for_gitlab </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flutter on thelooter</title><link>/de/tags/flutter/</link><description>Recent content in Flutter on thelooter</description><generator>Hugo</generator><language>de</language><lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/de/tags/flutter/index.xml" rel="self" type="application/rss+xml"/><item><title>Lab+ for Gitlab</title><link>/de/projects/labplus/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>/de/projects/labplus/</guid><description> HINWEIS Ich bin nicht der ursprüngliche Autor dieser App. Ich habe sie geforkt, als das Repository aufgegeben schien
+Mit Lab+ können Sie die neuesten Ereignisse sehen, wo immer Sie sind, auf Probleme antworten, damit sie schneller bearbeitet werden können, Projekte mit Labels verwalten und organisieren, Ihre Dateien und Ihren Code durchsuchen und vieles mehr!
+Ich überlege aktuell, die App mit Compose Multiplatform in Kotlin umzuschreiben.
+Github: https://github.com/thelooter/labplus_for_gitlab</description></item></channel></rss>
