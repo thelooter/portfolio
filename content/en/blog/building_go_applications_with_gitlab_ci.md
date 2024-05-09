@@ -167,7 +167,7 @@ The built binary will now be available as an Artifact.
 
 ## Conclusion
 
-Alright. Now we got our Pipeline. Of course it could extended.
+Alright. Now we got our Pipeline. Of course it could be extended.
 For example by building a Docker Image out of your code and publishing it.
 But thats a task for another day.
 
