@@ -4,10 +4,17 @@
     <title>Home of Eve Kolb on thelooter</title>
     <link>//localhost:1313/en/</link>
     <description>Recent content in Home of Eve Kolb on thelooter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Go Applications with Gitlab CI</title>
+      <link>//localhost:1313/en/blog/building_go_applications_with_gitlab_ci/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/blog/building_go_applications_with_gitlab_ci/</guid>
+      <description>Intro Recently I&amp;rsquo;ve started building and deplyoing Go Applications with Gitlab CI. Today I wanna share how I build a Pipeline that aims to make your code more resilient and safe.&#xA;The Pipeline Steps of a Pipeline First we should identify the steps we need in a Pipeline. We&amp;rsquo;ll split those into steps that verify and steps that transform, and steps that publish.&#xA;Verify Linting Unit Tests / Integration Tests SAST Secret Detection Dependency Scanning Transform Building Verification Linter The first Step we&amp;rsquo;re gonna add is the Linter.</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>//localhost:1313/en/about/</link>

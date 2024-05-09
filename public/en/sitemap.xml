@@ -2,6 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/en/blog/building_go_applications_with_gitlab_ci/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/ci-gitlab-go/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/about/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -338,19 +357,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/projects/"
-                />
-  </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
-    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>//localhost:1313/en/categories/</loc>
