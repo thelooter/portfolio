@@ -26,7 +26,7 @@ and steps that **publish**.
 
 - Linting
 - Unit Tests / Integration Tests
-- SAST
+- SAST (Static Analysis Security Testing)
 - Secret Detection
 - Dependency Scanning
 
@@ -48,7 +48,8 @@ lint:
   stage: lint
   script:
     # Write the code coverage report to gl-code-quality-report.json
-    # and print linting issues to stdout in the format: path/to/file:line description
+    # and print linting issues to stdout in the format:
+    # path/to/file:line description
     # remove `--issues-exit-code 0` or set to non-zero to fail the job if linting issues are detected
     - golangci-lint run --issues-exit-code 0 --print-issued-lines=false --out-format code-climate:gl-code-quality-report.json,line-number
   artifacts:
@@ -60,7 +61,8 @@ lint:
 
 As you can see we use the official golangci-lint docker image.
 Then we call the command for it and tell it to output the results to a file.
-This file is then used as a report that Gitlab can consume to show the results in the GUI.
+This file is then used as a report that Gitlab can consume to show the results
+in the GUI.
 
 #### Tests
 

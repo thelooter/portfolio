@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "blockquote",
       "body",
       "br",
       "button",
@@ -202,13 +201,17 @@
       "z-10"
     ],
     "ids": [
+      "1-the-test-pyramid",
+      "2-deploying-more-often-reduces-deployment-pains",
       "TableOfContents",
       "a",
       "conclusion",
       "dependency-scanning",
+      "die-pipeline",
+      "die-schritte-einer-pipeline",
       "intro",
       "linter",
-      "publish",
+      "my-takeaways",
       "sast-static-application-security-testing",
       "secret-detection",
       "steps-of-a-pipeline",
@@ -216,9 +219,11 @@
       "the-pipeline",
       "transform",
       "transformation",
-      "transformation-1",
+      "transformieren",
       "verification",
-      "verify"
+      "verifizieren",
+      "verify",
+      "what-this-article-is-not"
     ]
   }
 }
