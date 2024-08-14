@@ -3,9 +3,9 @@ title = "thelooter"
 theme = "blist"
 
 enableRobotsTXT = true
-
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
+
 [languages]
   [languages.en]
     contentDir = "content/en" #English
@@ -166,3 +166,11 @@ DefaultContentLanguageInSubdir = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
+[sitemap]
+  changeFreq = 'daily'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
+
+
