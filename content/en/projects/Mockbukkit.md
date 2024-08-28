@@ -11,6 +11,7 @@ MockBukkit is a framework that makes the unit testing of Bukkit plugins a whole 
 
 Written with Java, JUnit, Hamcrest and Gradle
 
+Website: https://mockbukkit.org
 Github: https://github.com/MockBukkit/Mockbukkit  
 Community: https://discord.gg/3Wz7CrWHSz  
-Maven: https://mvnrepository.com/artifact/com.github.seeseemelk/MockBukkit-v1.20  
+Maven: https://mvnrepository.com/artifact/com.github.seeseemelk/MockBukkit-v1.20
